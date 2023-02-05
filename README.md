@@ -3,4 +3,4 @@ SD Robot Generator is a fork TORCS tool, that can generate robot as "src" direct
 
 ## Usage
 To create your own robot, type in this terminal (or command line if you are used in Windows):
-```./robotgen -n <name> -a <author> -c <car>```
+`./robotgen -n <name> -a <author> -c <car>`
